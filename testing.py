@@ -4,3 +4,5 @@ print(list[0][1])
 print(list[][].sort())
 
 print("hello world")
+print("hello world")
+print("hello world")
