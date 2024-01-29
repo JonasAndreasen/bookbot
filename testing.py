@@ -5,4 +5,3 @@ print(list[][].sort())
 
 print("hello world")
 print("hello world")
-print("hello world")
